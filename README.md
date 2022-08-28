@@ -1,7 +1,6 @@
 # ESX-Legacy-DGserv
 
-## Description 
-Pack serveur FiveM ESX Legacy 1.7.5 officiel, prêt à démarrer.
+Packs complet serveur FiveM ESX Legacy 1.7.5 officiel, prêt à démarrer.
 
 ## Installation Windows & Linux
 1- Télécharger la resouces de décompresser dans un dossier
