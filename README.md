@@ -15,6 +15,10 @@ Pour linux : https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/
 
 4- Configurer le serveur.cfg
 
+## Contact DGserv
+Discord : https://discord.gg/dZtFTFvCu5  
+
+
 
 ## Source utilisé 
 - ESX-Legacy : https://github.com/esx-framework/esx-legacy.
